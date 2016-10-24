@@ -22,9 +22,6 @@ namespace Calculadora
         [OperationContract]
         int Divisao(int n1, int n2);
 
-
-
-
         [OperationContract]
         int Multiplicacao(int n1, int n2);
 
